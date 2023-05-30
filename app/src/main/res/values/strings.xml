@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">10120070_Catatan Harian</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="txt_welcome">Catatan Harian Oleh Fikri A</string>
+    <string name="txt_intro">Aplikasi ini dibuat Untuk Tugas Pengganti UTS Mata Kuliah AKB.</string>
+    <string name="txt_intro2">Aplikasi ini memiliki menu Catatan Harian (Note), Profil , dan informasi tentang Aplikasi .</string>
+    <string name="page1">Halaman 1 dari 2</string>
+    <string name="page2">Halaman 2 dari 2</string>
+    <string name="memo">Tips cara membuat Catatan Harian</string>
+    <string name="penjelasan"> Untuk Membuat catatan Harian, tekan logo note di menu bawah, maka akan muncul fitur catatan harian </string>
+    <string name="txt_add">Tambahkan Catatan</string>
+
+</resources>
